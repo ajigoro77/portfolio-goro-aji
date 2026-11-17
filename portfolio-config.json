@@ -1,0 +1,304 @@
+{
+  "personal": {
+    "name": "Goro Aji Ramadhan",
+    "location": "Jakarta Timur, Indonesia",
+    "title": "Web Developer | UI/UX Designer | Automation Specialist",
+    "status": "Lulusan S1 Teknik Informatika (S.Kom) - Universitas Indraprasta PGRI (UNINDRA)",
+    "email": "goroaji6@gmail.com",
+    "handle": "@ajigoro77",
+    "bio": "Saya adalah Lulusan S1 Teknik Informatika (S.Kom) dari UNINDRA yang berfokus pada Web Development, UI/UX Design, dan Sistem Otomatisasi. Memiliki pengalaman dalam membangun sistem manajemen perpustakaan berbasis PHP, otomatisasi customer service menggunakan n8n & Telegram Bot, serta pembuatan landing page produk dan aplikasi keamanan dokumen berbasis AES-128 & LSB. Siap berkontribusi secara profesional di bidang IT dan Software Engineering.",
+    "avatar": "/profile.png",
+    "fallbackAvatar": "/placeholder.jpg"
+  },
+  "education": {
+    "current": {
+      "degree": "S1 Teknik Informatika (S.Kom)",
+      "institution": "Universitas Indraprasta PGRI (UNINDRA)",
+      "duration": "2022 – 2026",
+      "cgpa": "3.5 / 4.00",
+      "status": "Lulusan",
+      "graduationDate": "Wisuda Desember 2026"
+    },
+    "achievements": [
+      "Sertifikasi Software Engineering - RevoU"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Self-Employed / Academic Projects",
+      "position": "Web Developer (Project Based)",
+      "type": "Project Based",
+      "duration": "2024 – Sekarang",
+      "description": "Mengembangkan sistem manajemen perpustakaan berbasis PHP & MySQL (CRUD, dashboard berbasis peran), landing page responsif tanpa framework, serta workflow otomatisasi customer service dengan n8n, Telegram Bot, dan Google Sheets. Mengelola source code dengan Git & GitHub.",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "n8n",
+        "Telegram Bot",
+        "Git & GitHub"
+      ]
+    }
+  ],
+  "skills": {
+    "programming": ["HTML", "CSS", "PHP", "Java", "JavaScript (basic)"],
+    "ml_ai": [],
+    "web_development": ["Responsive Web Design", "API Integration", "Telegram Bot Integration", "Basic UI/UX Design"],
+    "databases": ["MySQL"],
+    "devops_cloud": ["Git & GitHub", "n8n Automation", "Google Sheets", "VS Code", "NetBeans"],
+    "iot_hardware": [],
+    "soft_skills": ["Problem Solving", "Communication", "Adaptability", "Collaboration", "Analytical Thinking", "Time Management", "Creativity", "Leadership", "Willingness to Learn"]
+  },
+  "certifications": [
+    {
+      "name": "Belajar Dasar Pemrograman Web",
+      "issuer": "Dicoding Indonesia",
+      "period": "Juni – Juli 2025",
+      "description": "Dasar web development (HTML, CSS, responsive design) dan membuat landing page responsif dengan HTML & CSS murni."
+    },
+    {
+      "name": "Intro to Software Engineering",
+      "issuer": "RevoU",
+      "period": "2025",
+      "description": "Dasar software engineering, membuat aplikasi to-do list sederhana dengan HTML, serta berlatih memakai GitHub untuk pengumpulan tugas dan kolaborasi."
+    },
+    {
+      "name": "Partisipasi Organisasi Mahasiswa Informatika",
+      "issuer": "Universitas Indraprasta PGRI (UNINDRA)",
+      "period": "2022",
+      "description": "Terlibat dalam kegiatan akademik dan organisasi di lingkungan jurusan Informatika serta berkolaborasi dalam program kampus."
+    }
+  ],
+  "projects": [
+    {
+      "title": "StegoNotaris (AES-128 & LSB)",
+      "category": "Skripsi / Web App",
+      "description": "Aplikasi keamanan dokumen digital notaris berbasis web menggunakan metode hibrida kriptografi AES-128-CBC dan steganografi Least Significant Bit (LSB) pada citra PNG dengan nilai rata-rata PSNR 74,40 dB.",
+      "techStack": ["PHP", "MySQL", "Tailwind CSS"],
+      "date": "2026",
+      "status": "",
+      "featured": true,
+      "links": [
+        {
+          "name": "Landing Page",
+          "url": "https://ajigoro77.github.io/stego-notaris-landing/"
+        },
+        {
+          "name": "YouTube Demo",
+          "url": "https://youtu.be/Q_Z-cFlc3io"
+        }
+      ],
+      "images": [
+        {
+          "src": "/stego-notaris/gambar1.jpeg",
+          "alt": "StegoNotaris - Halaman Utama & Dashboard"
+        },
+        {
+          "src": "/stego-notaris/gambar2.jpeg",
+          "alt": "StegoNotaris - Menu Enkripsi & Embedding LSB"
+        },
+        {
+          "src": "/stego-notaris/gambar3.jpeg",
+          "alt": "StegoNotaris - Verifikasi Dokumen & Laporan PSNR"
+        },
+        {
+          "src": "/stego-notaris/demo.gif",
+          "alt": "Video demo aplikasi StegoNotaris"
+        }
+      ]
+    },
+    {
+      "title": "PHP Library Management System",
+      "category": "Web Development",
+      "description": "Sistem perpustakaan berbasis web dengan fitur CRUD, transaksi peminjaman, dan dashboard admin.",
+      "techStack": ["PHP", "MySQL"],
+      "date": "2025",
+      "status": "",
+      "featured": true,
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/ajigoro77"
+        },
+        {
+          "name": "YouTube Demo",
+          "url": "https://youtu.be/EsdDvZfeeKI?si=u2m4ZtOv-Q-Ut0qj"
+        }
+      ],
+      "images": [
+        {
+          "src": "/php-library/gambar1.jpeg",
+          "alt": "Sistem perpustakian web dengan dashboard admin - halaman utama"
+        },
+        {
+          "src": "/php-library/gambar2.jpeg",
+          "alt": "Sistem perpustakian web halaman peminjaman buku"
+        },
+        {
+          "src": "/php-library/gambar3.jpeg",
+          "alt": "Sistem perpustakian web dashboard admin"
+        },
+        {
+          "src": "/php-library/gambar4.jpeg",
+          "alt": "Sistem perpustakian web transaksi peminjaman"
+        },
+        {
+          "src": "/php-library/demo.gif",
+          "alt": "Video demo PHP Library Management System"
+        }
+      ]
+    },
+    {
+      "title": "Toko Gatgetin – n8n Customer Service Automation",
+      "category": "Automation",
+      "description": "Otomatisasi customer service menggunakan n8n & Telegram Bot yang terintegrasi dengan Google Sheets.",
+      "techStack": ["n8n", "Telegram Bot", "Google Sheets"],
+      "date": "2026",
+      "featured": true,
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/ajigoro77/Toko_Gatgetin_n8n"
+        },
+        {
+          "name": "YouTube Demo",
+          "url": "https://youtu.be/NUQKBGLy7ww?si=UDrMErNCBQDKo7jF"
+        }
+      ],
+      "images": [
+        {
+          "src": "/tokogatgetin/gambar1.jpeg",
+          "alt": "Antarmuka Telegram Bot Toko Gatgetin - halaman utama"
+        },
+        {
+          "src": "/tokogatgetin/gambar2.jpeg",
+          "alt": "Antarmuka Telegram Bot Toko Gatgetin - fitur otomatisasi"
+        },
+        {
+          "src": "/tokogatgetin/gambar3.jpeg",
+          "alt": "Integrasi Google Sheets Toko Gatgetin"
+        },
+        {
+          "src": "/tokogatgetin/demo.gif",
+          "alt": "Video demo Toko Gatgetin n8n Customer Service"
+        }
+      ]
+    },
+    {
+      "title": "Katriella – Hijab Product Landing Page",
+      "category": "Landing Page",
+      "description": "Landing page produk busana/hijab yang responsif dan teroptimasi.",
+      "techStack": ["HTML", "CSS"],
+      "date": "2025",
+      "status": "",
+      "featured": true,
+      "links": [
+        {
+          "name": "Live Demo",
+          "url": "https://ajigoro77.github.io/landing-page-hijab/"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/ajigoro77"
+        }
+      ],
+      "images": [
+        {
+          "src": "/katriella/gambar1.jpeg",
+          "alt": "Landing page produk hijab Katriella - halaman utama"
+        },
+        {
+          "src": "/katriella/gambar2.jpeg",
+          "alt": "Landing page produk hijab Katriella - fitur utama"
+        },
+        {
+          "src": "/katriella/gambar3.jpeg",
+          "alt": "Landing page produk hijab Katriella - galeri produk"
+        },
+        {
+          "src": "/katriella/demo.gif",
+          "alt": "Video demo landing page hijab Katriella"
+        }
+      ]
+    }
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/goroaji/",
+    "github": "https://github.com/ajigoro77",
+    "twitter": "",
+    "kaggle": "",
+    "leetcode": "",
+    "fiverr": ""
+  },
+  "internship": {
+    "seeking": true,
+    "duration": "Full-time",
+    "startDate": "",
+    "preferredLocation": "Jakarta Timur, Indonesia",
+    "focusAreas": ["Web Development", "UI/UX Design", "Automation", "Software Engineering"],
+    "availability": "Terbuka untuk peluang kerja di bidang IT dan Software Engineering",
+    "workStyle": "Fokus membangun solusi web dan otomatisasi yang praktis dan rapi",
+    "goals": "Berkontribusi secara profesional di bidang IT dan Software Engineering."
+  },
+  "personality": {
+    "traits": [],
+    "interests": ["Web Development", "UI/UX Design", "Automation"],
+    "funFacts": [],
+    "workingStyle": "Fokus membangun solusi web dan otomatisasi yang praktis dan rapi",
+    "motivation": "Membangun produk web dan sistem otomatisasi yang bermanfaat bagi pengguna."
+  },
+  "resume": {
+    "title": "Goro Aji Ramadhan - Resume",
+    "description": "Web Developer | UI/UX Design | Automation Specialist",
+    "fileType": "PDF",
+    "lastUpdated": "October 2026",
+    "fileSize": "",
+    "downloadUrl": "/resume-goro-aji.pdf"
+  },
+  "chatbot": {
+    "name": "Goro",
+    "personality": "professional, friendly, tech-savvy",
+    "tone": "friendly and conversational",
+    "language": "english",
+    "responseStyle": "short and interactive",
+    "useEmojis": true,
+    "topics": ["projects", "skills", "education", "certification", "contact"]
+  },
+  "presetQuestions": {
+    "me": [
+      "Who are you?",
+      "Tell me about yourself",
+      "What's your background?",
+      "Where are you located?"
+    ],
+    "professional": [
+      "What are your skills?",
+      "Can I see your resume?",
+      "What's your educational background?",
+      "What certifications do you have?",
+      "Am I available for opportunities?",
+      "Why should I hire you?"
+    ],
+    "projects": [
+      "What projects are you most proud of?",
+      "Tell me about your automation projectS",
+      "Tell me about your PHP project",
+      "What are your recent projects?"
+    ],
+    "contact": [
+      "How can I reach you?",
+      "What's your email?",
+      "Where can I find you online?"
+    ],
+    "fun": [
+      "What motivates you?"
+    ]
+  },
+  "meta": {
+    "configVersion": "2.1",
+    "lastUpdated": "2026-11-12",
+    "generatedBy": "Goro Aji Ramadhan",
+    "description": "Portfolio configuration for Goro Aji, S.Kom."
+  }
+}
